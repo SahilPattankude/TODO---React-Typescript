@@ -17,10 +17,6 @@ A simple and efficient Todo List application built using **React** and **TypeScr
 
 ---
 
-## 🖼️ Preview
-
-![screenshot](./screenshot.png) <!-- Add a real screenshot of your app if available -->
-
 ---
 
 ## 🧰 Tech Stack
